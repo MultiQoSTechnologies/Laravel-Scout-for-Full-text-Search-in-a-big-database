@@ -74,6 +74,6 @@ Visit http://localhost:8000 in your browser to view the application.
     ![2024-06-14_11-19](https://github.com/MultiQoSTechnologies/Laravel-Scout-for-Full-text-Search-in-a-big-database/assets/149043274/0efd6b63-2db0-437e-b915-50bc0547e9c4)
 
 
-For more details, visit MultiQoS. [https://multiqos.com/]
+For more details, visit [MultiQoS.](https://multiqos.com/)
 Contact us for collaboration or support:
 Email: biz@multiqos.com
